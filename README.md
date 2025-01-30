@@ -25,7 +25,7 @@ This project visualizes earthquake data on an interactive map using Leaflet.js a
    ```
 2. Navigate to the project directory:
    ```sh
-   cd earthquake-map
+   cd leaflet-challenge
    ```
 3. Open the `index.html` file in a web browser.
 
